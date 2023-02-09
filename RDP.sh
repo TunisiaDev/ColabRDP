@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /bin/sh
 printf "Installing RDP Be Patience... " >&2
 {
 sudo useradd -m Chekib
